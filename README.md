@@ -1,5 +1,5 @@
 # Weather App
 
-This app shows the weaher using the ![https://www.metaweather.com/api/](Metaweather API).
+This app shows the weather using the [MetaWeather API]([https://www.metaweather.com/api/).
 
-![screenshot.png]
+![screenshot](screenshot.png)
